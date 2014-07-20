@@ -3,6 +3,7 @@ jquery-emoticons
 
 An emoticon parser written in jQuery
 <br>
+This version has many improvements over the original. Compare the code.
 <br>
 <strong>Credits:</strong>
 <br><br>
