@@ -6,7 +6,7 @@ An emoticon parser written in jQuery
 <br>
 <strong>Credits:</strong>
 <br><br>
-Original: http://users.dcc.uchile.cl/~skreft/emoticon (Copyright (c) 2009 Sebastian Kreft)
+Original: http://users.dcc.uchile.cl/~skreft/emoticon (circa 2009 Sebastian Kreft)
 <br>
 Images (not included here):  
 <br><br>
