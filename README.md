@@ -9,6 +9,6 @@ An emoticon parser written in jQuery
 Original: http://users.dcc.uchile.cl/~skreft/emoticon (circa 2009 Sebastian Kreft)
 <br>
 Images (not included here):  
-<br><br>
-https://messenger.yahoo.com/features/emoticons
+<br>
+https://messenger.yahoo.com/features/emoticons<br>
 https://sg.messenger.yahoo.com/features/hiddenemoticons
